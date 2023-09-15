@@ -19,7 +19,7 @@
      `{"id": "70"}`
 
 ###  `GET`
-2. Path: /receipts/{id}/points
+2. Path: /receipts/\{id}/points
    * Method: `GET`
    * Response: JSON containing number of points awarded
    * Example Response:
