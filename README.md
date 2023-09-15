@@ -47,5 +47,7 @@ In POST request you will send the payload using Body tab in there select raw and
     3. docker run --publish 8000:8000 python-django
     
 In order to test the test scripts
+
 Go to the root directory of project and execute the following command:
+
 `python manage.py test receipt_processor`
