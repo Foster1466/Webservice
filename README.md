@@ -31,8 +31,8 @@ To test this project you will need postman
 Download using this link: https://www.postman.com/downloads/
 
 Once you finish downloading open postman set up 2 APIs
-1. http://127.0.0.1:8000/receipts/process
-2. http://127.0.0.1:8000/receipts/<id>/points
+1. `http://127.0.0.1:8000/receipts/process`
+2. `http://127.0.0.1:8000/receipts/<id>/points`
 
 ![image](https://github.com/Foster1466/Webservice/assets/67507979/733e2a3b-82e3-49a0-b8ca-5a37581a9af4)
 
