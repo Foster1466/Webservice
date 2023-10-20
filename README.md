@@ -2,6 +2,7 @@
 
 ## Summary
 * Successfully built a webservice for a coding challenge.
+* Challenge: https://github.com/Foster1466/receipt-processor-challenge
 
 
 ## Tech Stack
