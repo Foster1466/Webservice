@@ -1,7 +1,7 @@
 # Webservice
 
 ## Summary
-* Successfully built a webservice that fulfils the document API.
+* Successfully built a webservice for a coding challenge.
 
 
 ## Tech Stack
